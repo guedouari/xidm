@@ -11,7 +11,7 @@
 namespace Aria2 {
 
 Aria2Man::Aria2Man() {
-	// TODO Auto-generated constructor stub
+	// TODO Auto-generated constructor stub or not
 
 }
 
